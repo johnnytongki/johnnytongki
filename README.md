@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnnytongki
+- 👋 Hi, I’m Johnny
 - 👀 I’m interested in crypto
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me: https://t.me/JohnnyTongki; https://twitter.com/TongkiJohnny
