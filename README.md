@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Johnny
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested crypto and blockchain
 - 📫 How to reach me: https://t.me/JohnnyTongki; https://twitter.com/TongkiJohnny
 - 👉 https://hackmd.io/@johnnytongki77
 
